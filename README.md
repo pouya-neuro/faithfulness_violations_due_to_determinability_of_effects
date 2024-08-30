@@ -1,7 +1,7 @@
 # faithfulness_violations_due_to_determinability_of_effects
 Repository for the code and experimental results for the dissertation "Faithfulness violations due to the determinability of effects in certain classes of discrete and discretisable Markovian causal models".
 
-The "code/" directory contains a "main_script.py" document that reproduces all of the pdf files found in this repository. In terms of content:
+The "code/" directory contains a "main_script.py" file that reproduces all of the pdf files found in this repository. In terms of content:
 
 The "visualisations/" directory contains 3 pdf files corresponding to the 3 settings outlined in our dissertation. For each setting, a pdf file in this directory illustrates the performance 
 of the skeleton search step of the PC algorithm on models without any faithfulnes violations vs. models with faithfulness violations of the types that we characterise in our paper. 
